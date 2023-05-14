@@ -2,6 +2,7 @@
   "name": "react-meme-generator-new",
   "version": "0.1.0",
   "private": true,
+  "main": "public/index.html",
   "dependencies": {
     "@upleveled/react-scripts": "5.0.11",
     "react": "^18.2.0",
