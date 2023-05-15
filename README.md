@@ -23,5 +23,3 @@ Fortunately, the api is simple enough to just take any urls (with a certain stru
 Download: The download function is powered by a XMLHttpRequest. It gets the image-adress and loads the data into the default download folder of your browser.
 
 # Happy meme-ing!
-
-# Getting Started with Create React App
